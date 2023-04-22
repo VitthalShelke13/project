@@ -7,7 +7,7 @@
         "type": "Household",
         "price": 2500,
         "rating": 4,
-        "image": { "fields": { "file": { "url": "../image/product-1.jpeg" } } }
+        "image": { "fields": { "file": { "url": "/housingproduct/image/product-1.jpeg" } } }
       }
     },
     {
@@ -17,7 +17,7 @@
         "type": "Household",
         "price": 3000,
         "rating": 3,
-        "image": { "fields": { "file": { "url": "../image/product-2.jpeg" } } }
+        "image": { "fields": { "file": { "url": "/housingproduct/image/product-2.jpeg" } } }
       }
     },
     {
@@ -27,7 +27,7 @@
         "type": "Household",
         "price": 2200,
         "rating": 5,
-        "image": { "fields": { "file": { "url": "../image/product-3.jpeg" } } }
+        "image": { "fields": { "file": { "url": "/housingproduct/image/product-3.jpeg" } } }
       }
     },
     {
@@ -37,7 +37,7 @@
         "type": "Household",
         "price": 2800,
         "rating": 4,
-        "image": { "fields": { "file": { "url": "../image/product-4.jpeg" } } }
+        "image": { "fields": { "file": { "url": "/housingproduct/image/product-4.jpeg" } } }
       }
     },
     {
@@ -47,7 +47,7 @@
         "type": "Kitchen",
         "price": 1880,
         "rating": 2,
-        "image": { "fields": { "file": { "url": "../image/product-5.jpeg" } } }
+        "image": { "fields": { "file": { "url": "/housingproduct/image/product-5.jpeg" } } }
       }
     },
     {
@@ -57,7 +57,7 @@
         "type": "furniture",
         "price": 3200,
         "rating": 3,
-        "image": { "fields": { "file": { "url": "../image/product-6.jpeg" } } }
+        "image": { "fields": { "file": { "url": "/housingproduct/image/product-6.jpeg" } } }
       }
     },
     {
@@ -67,7 +67,7 @@
         "type": "Lounge",
         "price": 4500,
         "rating": 5,
-        "image": { "fields": { "file": { "url": "../image/product-7.jpeg" } } }
+        "image": { "fields": { "file": { "url": "/housingproduct/image/product-7.jpeg" } } }
       }
     },
     {
@@ -77,7 +77,7 @@
         "type": "Tables & Chairs",
         "price": 1300,
         "rating": 4,
-        "image": { "fields": { "file": { "url": "../image/product-8.jpeg" } } }
+        "image": { "fields": { "file": { "url": "/housingproduct/image/product-8.jpeg" } } }
       }
     }
   ]

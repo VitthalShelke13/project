@@ -18,7 +18,7 @@ let cart = [];
 class Products {
   async getProducts() {
     try {
-      const result = await fetch("./jsondata1/housingproduct.json"); //returns response object
+      const result = await fetch("./jsondata/housingproduct.json"); //returns response object
       let products = await result.json(); // to get the data from response object
       let data = products.items;
       data = data.map((item) => {
