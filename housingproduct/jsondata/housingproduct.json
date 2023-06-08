@@ -7,7 +7,7 @@
         "type": "Household",
         "price": 2500,
         "rating": 4,
-        "image": { "fields": { "file": { "url": "/housingproduct/image/product-1.jpeg" } } }
+        "image": { "fields": { "file": { "url": "housingproduct/image/product-1.jpeg" } } }
       }
     },
     {
