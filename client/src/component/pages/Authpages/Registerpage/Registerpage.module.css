@@ -1,0 +1,35 @@
+.containers{
+min-height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(60, 177, 177);
+}
+.m {
+    width: 30%; /* adjust this value to control the form's width */
+    height: 465px;
+    text-align: center;
+    background-color:white;
+    
+   
+   
+  }
+ 
+  input{
+    width: 270px;
+    margin-bottom:10px;
+    padding:10px;
+    border: none;
+    border-bottom: 2px  solid black;
+    outline: none ;
+    font-size:large;
+    text-align: center;
+  }
+  .btn{
+    width:270px;
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+    margin-top:10px;
+    height: 40px;
+  }
